@@ -48,6 +48,7 @@ void bank::display()
 }
 int main()
 {
+	int ilo;
 	int acc_no;
 	char name[100],acc_type[100];
 	float balance;
